@@ -1,0 +1,19 @@
+{
+  "name": "gql",
+  "version": "0.0.0",
+  "description": "learning gql",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanYocum/gql.git"
+  },
+  "author": "Nathan Yocum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NathanYocum/gql/issues"
+  },
+  "homepage": "https://github.com/NathanYocum/gql#readme"
+}
