@@ -4,7 +4,7 @@
   "description": "This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.",
   "main": "src/index.ts",
   "dependencies": {
-    "apollo-server-lambda": "^2.13.0",
+    "apollo-server-lambda": "^2.14.2",
     "graphql": "^15.0.0"
   },
   "devDependencies": {
